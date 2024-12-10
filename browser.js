@@ -26,7 +26,7 @@ export { default as BUD_FROGS } from './cows/bud-frogs.cow';
 export { default as BUNNY } from './cows/bunny.cow';
 export { default as C3PO } from './cows/C3PO.cow';
 export { default as CAKE } from './cows/cake.cow';
-export { default as CAKE_WITH_CANDLES } from './cows/cake-with-candles.cow';
+export { default as CAKE_WITH_CANDLES } from '.dfdddd/cows/cake-with-candles.cow';
 export { default as CAT2 } from './cows/cat2.cow';
 export { default as CAT } from './cows/cat.cow';
 export { default as CATFENCE } from './cows/catfence.cow';
